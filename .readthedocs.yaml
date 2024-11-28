@@ -8,7 +8,7 @@ build:
 formats:
   - epub
   - htmlzip
-  - latexpdf
+  - pdf
 
 sphinx:
   configuration: docs/source/conf.py
